@@ -1,0 +1,14 @@
+﻿<wpf:MetroWindow x:Class="GetGraphSample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GetGraphSample"
+        xmlns:wpf="http://www.2u1mei.com"
+        mc:Ignorable="d"
+        Title="MainWindow"  Height="750" Width="1024" TitleBackground="#4FC478" WindowStartupLocation="CenterScreen" 
+                 TitleCornerRadius="3,3,0,0" WindowCornerRadius="3">
+    <Grid x:Name="_HomeGrid">
+        
+    </Grid>
+</wpf:MetroWindow>
