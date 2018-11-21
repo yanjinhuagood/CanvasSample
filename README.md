@@ -6,4 +6,4 @@
 <li>支持Windows XP，Windows Win7、8、10</li>
 <br/>
 <img src="/Image/GIF.gif"/>
-<li>cnblogs博客园:https://www.cnblogs.com/yanjinhua/</li>
+
